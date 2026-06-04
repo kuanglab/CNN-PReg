@@ -85,4 +85,4 @@ python3 main.py gene_clustering --epoch <no_epochs> --cluster <no_clusters> --al
 
 References
 --------------------------------------------------------------------------------
-(Under review)
+Tianci Song, Kathleen K Markham, Zhuliu Li, Kristen E Muller, Kathleen Greenham, Rui Kuang, Detecting spatially co-expressed gene clusters with functional coherence by graph-regularized convolutional neural network, Bioinformatics, Volume 38, Issue 5, March 2022, Pages 1344–1352
